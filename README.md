@@ -32,3 +32,4 @@ ip addr show
 ---
 
 *Upar table mein `XX:XX:XX:XX:XX:XX` aur `192.168.X.X` ki jagah apna asal MAC/IP daal dein, phir yeh file GitHub par push kar dein.*
+
